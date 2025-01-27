@@ -308,9 +308,9 @@ end
 
 -- Edits
 local radius = 25
-local height = 999999999999
-local rotationSpeed = 999999999999
-local attractionStrength = 999999999999
+local height = 100
+local rotationSpeed = 999999999
+local attractionStrength = 50
 local ringPartsEnabled = false
 
 local function RetainPart(Part)
