@@ -307,7 +307,7 @@ if not getgenv().Network then
 end
 
 -- Edits
-local radius = 50
+local radius = 25
 local height = 100
 local rotationSpeed = 10
 local attractionStrength = 1000
